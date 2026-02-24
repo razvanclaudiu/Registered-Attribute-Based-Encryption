@@ -1,0 +1,21 @@
+{
+    "user_count": 4,
+    "users": [
+        {
+        "user_id": 1,
+        "attributes": ["role:admin", "department:finance", "location:NY"]
+        },
+        {
+        "user_id": 2,
+        "attributes": ["role:user", "department:engineering", "location:SF"]
+        },
+        {
+        "user_id": 3,
+        "attributes": ["role:manager", "department:marketing", "location:LA"]
+        },
+        {
+        "user_id": 4,
+        "attributes": ["role:user", "department:marketing", "location:NY"]
+        }
+    ]
+}
